@@ -1,0 +1,29 @@
+.mark2 {
+    border-bottom: 20px;background-color: rgb(232, 0, 0);
+    width: 250px;background-color: rgb(0, 170, 255);
+    height: 250px;color: black;
+    padding: 20px;
+    border-style: solid;color: black;
+}
+
+.mark22{
+    width: 100px;background-color: rgb(3, 3, 3);
+    height: 100px;color: rgb(0, 0, 0);
+    border-style: dashed;color: brown;
+}
+
+.mark3 {
+    border-bottom: 20px;background-color: rgb(232, 0, 0);
+    width: 200px;background-color: rgb(0, 170, 255);
+    height: 200px;color: black;
+    padding: 20px;
+}
+.mark33{
+    width: 100px;background-color: rgb(3, 3, 3);
+    height: 100px;color: rgb(0, 0, 0);
+    border-style: dashed;color: brown;
+}
+.mark4{
+    width: 100px;background-color: aqua;
+    height: 80%;
+}
